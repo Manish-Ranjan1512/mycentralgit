@@ -1,2 +1,2 @@
-#GIT learning 
- DevOps learning lesson 14 :)
+# Git learning
+  DevOps lecture no.14
